@@ -14,7 +14,7 @@ Download the zip file and decompress everything under the directory `plugins/Kan
 
 - Navigate to the project you want to export
 - From the project settings select `Exports`
-- In the exports dialog select `As JSON`
+- In the exports dialog select `Focalboard`
 - Download the backup to your computer
 
 ## Maintainers
